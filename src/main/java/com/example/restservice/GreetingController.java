@@ -17,4 +17,5 @@ public class GreetingController {
         return new Greeting(counter.incrementAndGet(), String.format(template, name));
     }
     // branch1 test7
+    // main
 }
